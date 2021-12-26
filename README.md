@@ -1,7 +1,7 @@
 # Ai_algorithms
 
 # u can use graph or tree 
-<p align="center">
+### 1. graph 
   <img src="graph.jpg" width="350" title="graph">
-  <img src="tree.jpg" width="350" alt="tree">
-</p>
+## 1. tree 
+   <img src="tree.jpg" width="350" alt="tree">
