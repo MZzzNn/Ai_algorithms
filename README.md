@@ -1,5 +1,3 @@
-# Ai_algorithms
-
 # u can use graph or tree 
 ### 1. graph 
 -  <img src="graph.jpg" width="350" title="graph">
